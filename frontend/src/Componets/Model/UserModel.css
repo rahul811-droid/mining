@@ -1,0 +1,8 @@
+
+input{
+  height: 80%;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
